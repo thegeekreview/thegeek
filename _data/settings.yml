@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: The Geek Review | High-quality reviews & Special offers
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Don't buy a pig in a poke.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Mike Brown
   image: 01.jpg
   say-hello: Hello, this is <strong>The Geek Review</strong> website
   bio: I'm a guy who has 5 years experience in digital business and software development. Here you will find products, software and courses tested and reviewed by me.
