@@ -3,7 +3,7 @@ url: "https://thegeekreview.net" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -13,7 +13,7 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num"
 
-#SEO TAG Settings
+# SEO TAG Settings
 title: The Geek Review
 description: Don't buy pig in a poke and read my reviews!
 
