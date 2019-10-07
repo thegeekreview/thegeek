@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sqribble review
+title: Sqribble best review
 image: 10.jpg
 tags: sqribble
 published: true
