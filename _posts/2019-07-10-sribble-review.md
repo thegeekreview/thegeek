@@ -91,8 +91,8 @@ less from Sqribble.
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span"><i class="fa fa-camera-retro fa-lg"></i>First column **fields**</td>
+<td markdown="span"><i class="fa fa-camera-retro fa-lg"></i>Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
