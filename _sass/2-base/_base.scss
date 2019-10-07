@@ -128,6 +128,9 @@ hr {
 
 table {
   padding: 0; }
+table thead {
+	background-color: black;
+}
   table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
