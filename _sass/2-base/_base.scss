@@ -127,7 +127,9 @@ hr {
 }
 
 table {
-  padding: 0; }
+  padding: 0;
+    margin-left: auto;
+    margin-right: auto;}
 table thead th:first-of-type {
 	background-color: #5da758;
 }
