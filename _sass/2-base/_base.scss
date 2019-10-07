@@ -128,7 +128,7 @@ hr {
 
 table {
   padding: 0; }
-table thead th {
+table thead tr::first-child {
 	background-color: black;
 }
   table tr {
