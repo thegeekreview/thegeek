@@ -160,15 +160,10 @@ table thead th:nth-child(2) {
       padding: 6px 13px;
 	   
 }
-    table tr th:first-child, table tr td:first-child {
-	    margin-top: 0; }
+
 	    tbody tr td:first-child {
-		  background-color: rgba(93, 167, 88, 0.1);  
+		  background-color: rgba(93, 167, 88, 0.2);  
 	    }
-}
-    table tr th:last-child, table tr td:last-child {
-	    margin-bottom: 0;
-}
 
 	     tbody tr td:last-child {
-	      background-bolor: rgba(211, 48, 44, 0.3); }
+	      background-bolor: rgba(211, 48, 44, 0.2); }
