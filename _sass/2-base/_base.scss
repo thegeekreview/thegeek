@@ -131,6 +131,11 @@ table {
 table thead th:first-of-type {
 	background-color: black;
 }
+
+table thead th:nth-child(2) {
+	background-color: black;
+}
+
   table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
