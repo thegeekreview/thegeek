@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Sqribble review"
-date:   2019-10-07 18:05:55 +0300
 image:  10.jpg
 tags:   sqribble
 published: true
