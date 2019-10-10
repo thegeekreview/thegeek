@@ -66,7 +66,7 @@ Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 
 ## Conclusion
-There are numerous eBook creator tools, but I have not come across any that makes the entire process as
+<i class="ion ion-logo-facebook">SS</i>There are numerous eBook creator tools, but I have not come across any that makes the entire process as
 quick and smooth as Sqribble. Although most free or low-priced tools are so buggy, this tool comes with
 some cool features.
 Sqribble has very nice looking templates with professional layouts. The fact that you can automatically add
