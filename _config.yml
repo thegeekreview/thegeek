@@ -14,6 +14,9 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num"
 
+gems:
+  - jekyll-font-awesome-sass
+
 # SEO TAG Settings
 title: The Geek Review
 description: Don't buy pig in a poke and read my reviews!
@@ -38,3 +41,5 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+  
+  
