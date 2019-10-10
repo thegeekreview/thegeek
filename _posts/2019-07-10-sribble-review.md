@@ -95,7 +95,7 @@ less from Sqribble.
 <td markdown="span"><i class="fa fa-camera-retro fa-lg"></i>{% fa_svg fab.fa-twitter %}Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
+<td markdown="span"><ion-icon name="partly-sunny"></ion-icon>Second column **fields**</td>
 <td markdown="span">Some more descriptive text.
 </td>
 </tr>
